@@ -2,7 +2,6 @@ title: Wild Words SRD українською
 description: Переклад SRD для гри The Wildsea від видавництва КУРА
 theme: just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
+search_enabled: true
 nav_enabled: true
+heading_anchors: true
