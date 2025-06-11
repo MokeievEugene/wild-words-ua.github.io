@@ -5,6 +5,8 @@ theme: just-the-docs
 plugins:
   - jekyll-multiple-languages-plugin
 
+languages: ["en", "uk"]
+
 defaults:
   - scope:
       path: "docs"
