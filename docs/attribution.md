@@ -13,6 +13,15 @@ nav_order: 2
 
 *This work is Told by Wild Words (found at http://www.wildwords-srd.com/), The Wild Words Engine is a product of Felix Isaacs, Quillhound Studios, and Mythworks, and licensed for use under the Creative Commons Attribution 4.0 unported license (http://creativecommons.org/licenses/by/4.0/).*
 
+![](../../assets/images/wildwords_01.png)
+![](../../assets/images/wildwords_02.png)
+![](../../assets/images/wildwords_03.png)
+![](../../assets/images/wildwords_04.png)
+![](../../assets/images/wildwords_05.png)
+![](../../assets/images/wildwords_06.png)
+![](../../assets/images/wildwords_07.png)
+![](../../assets/images/wildwords_08.png)
+
 Якщо ви використовуєте будь-який з логотипів Told by Wild Words, будь ласка, додайте наступний текст:
 
 *The Told by Wild Words Logo is © Mythopoeia, Inc, and is used with permission.*
