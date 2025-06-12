@@ -1,5 +1,5 @@
 ---
-title: Треки
+title: Дії
 parent: Основна Система
 nav_order: 5
 ---
