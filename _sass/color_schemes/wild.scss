@@ -1,4 +1,6 @@
 @import "./color_schemes/dark";
 
-$sidebar-color: $green-200 !default;
+$sidebar-color: $green-200;
+
+@import "./vendor/OneLightJekyll/syntax";
 
