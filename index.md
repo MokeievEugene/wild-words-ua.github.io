@@ -13,9 +13,11 @@ The Wildsea можна купити [тут](https://www.myth.works/en-gb/collec
 Дике Поле можна почитати [тут](https://docs.google.com/document/d/1j60B_2hZ5raDHpwnper2HEwS0oOoJmYzV8nuIz5hChs/edit?usp=sharing).
 
 ## Український переклад
+
 ### Переклад
 - Євген Мокеєв (видавництво «КУРА») 
 - Олександр Козбан
+
 ### Редактура
 - Владислав Дракула
 - Boris Bradobrey (Fungaloid Bastards)
