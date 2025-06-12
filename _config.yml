@@ -3,6 +3,8 @@ description: Переклад SRD для гри The Wildsea від видавн�
 theme: just-the-docs
 repository: MokeievEugene/wild-words-ua.github.io
 
+color_scheme: wild
+
 permalink: pretty
 
 defaults:
@@ -18,9 +20,9 @@ nav_enabled: true
 nav_sort: case_sensitive
 heading_anchors: true
 
-nav_external_links:
-  - title: GitHub репозиторій
-    url: https://github.com/MokeievEugene/wild-words-ua.github.io
+aux_links:
+  "GitHub репозиторій":
+    - "https://github.com/MokeievEugene/wild-words-ua.github.io"
 
 back_to_top: true
 back_to_top_text: "Нагору"
