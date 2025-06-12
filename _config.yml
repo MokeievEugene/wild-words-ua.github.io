@@ -1,6 +1,9 @@
 title: Wild Words SRD українською
 description: Переклад SRD для гри The Wildsea від видавництва КУРА
 theme: just-the-docs
+repository: MokeievEugene/wild-words-ua.github.io
+
+permalink: pretty
 
 defaults:
   - scope:
@@ -14,6 +17,10 @@ search_enabled: false
 nav_enabled: true
 nav_sort: case_sensitive
 heading_anchors: true
+
+nav_external_links:
+  - title: GitHub репозиторій
+    url: https://github.com/MokeievEugene/wild-words-ua.github.io
 
 back_to_top: true
 back_to_top_text: "Нагору"
