@@ -12,6 +12,8 @@ The Wildsea можна купити [тут](https://www.myth.works/en-gb/collec
 
 Дике Поле можна почитати [тут](https://docs.google.com/document/d/1j60B_2hZ5raDHpwnper2HEwS0oOoJmYzV8nuIz5hChs/edit?usp=sharing).
 
+Якщо ви знайшли помилку, напишіть в [дискорд видавництва КУРА](https://discord.com/invite/s2ubkk929Z), канал фідбеку.
+
 ## Український переклад
 
 ### Переклад
@@ -22,3 +24,6 @@ The Wildsea можна купити [тут](https://www.myth.works/en-gb/collec
 - Владислав Дракула
 - Boris Bradobrey (Fungaloid Bastards)
 - Іллаір (Мокрієв Богдан) (Dense Forest Camp)
+- Мізанабім
+
+![](../assets/images/cura-logo.png)
