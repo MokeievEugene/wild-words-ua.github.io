@@ -26,4 +26,4 @@ The Wildsea можна купити [тут](https://www.myth.works/en-gb/collec
 - Іллаір (Мокрієв Богдан) (Dense Forest Camp)
 - Мізанабім
 
-![](../assets/images/cura-logo.png)
+![](assets/images/cura-logo.png)
