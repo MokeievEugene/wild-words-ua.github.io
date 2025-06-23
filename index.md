@@ -21,9 +21,9 @@ The Wildsea можна купити [тут](https://www.myth.works/en-gb/collec
 - Олександр Козбан
 
 ### Редактура
+- Данііл MIZANABIM
 - Владислав Дракула
 - Boris Bradobrey (Fungaloid Bastards)
 - Іллаір (Мокрієв Богдан) (Dense Forest Camp)
-- Данііл MIZANABIM
 
 ![](../../../assets/images/cura-logo.png)
